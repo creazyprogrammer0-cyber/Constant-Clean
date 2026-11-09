@@ -1,0 +1,8 @@
+{
+  "name": "Constant Clean Auto Detailing",
+  "description": "Auto detailing service app featuring Google Calendar appointment scheduling and Google Wallet pass \u0026 payment integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
